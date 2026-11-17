@@ -1,0 +1,231 @@
+{
+  "ok": true,
+  "ts": 1794906272919,
+  "activities": [
+    {
+      "name": "月涌狂想赛季冲刺",
+      "start": "2026-10-22",
+      "end": 1795032000,
+      "pets": [],
+      "props": [
+        {
+          "name": "热力勋印",
+          "id": "",
+          "img": ""
+        },
+        {
+          "name": "咕噜球补给礼盒",
+          "id": "",
+          "img": ""
+        }
+      ]
+    },
+    {
+      "name": "命定花种",
+      "start": "2026-11-05",
+      "end": 1795118400,
+      "pets": [
+        {
+          "name": "叮叮恶魔",
+          "id": "66f7c0faa2df66f0080adbcc",
+          "img": "https://rocomap.cn/petIcon/66f7c0faa2df66f0080adbcc_1784171472298.png"
+        },
+        {
+          "name": "卡拉波斯",
+          "id": "66f7c0faa2df66f0080adc81",
+          "img": "https://rocomap.cn/petIcon/66f7c0faa2df66f0080adc81_1784170928991.png"
+        },
+        {
+          "name": "黑猫巫师",
+          "id": "6751c9ec5f6d950aa5263725",
+          "img": "https://rocomap.cn/petIcon/6751c9ec5f6d950aa5263725_1784171297410.png"
+        }
+      ],
+      "props": [
+        {
+          "name": "分光水晶",
+          "id": "69d77a673f01ffadfbd41cc4",
+          "img": "https://wegame.shallow.ink/api/v1/resources/rocom/cloudstatic/100796_1775729238502_0.png"
+        },
+        {
+          "name": "灵魂环印",
+          "id": "69d7caf83f01ffadfbd971be",
+          "img": "https://wegame.shallow.ink/api/v1/resources/rocom/cloudstatic/100909_1775749878040_0.png"
+        },
+        {
+          "name": "命定勇者",
+          "id": "69e96e9f59b0dcabb6f254b2",
+          "img": "https://wegame.shallow.ink/api/v1/resources/rocom/cloudstatic/img_MedalIcon_Brave_1776905868882_0.png"
+        }
+      ]
+    },
+    {
+      "name": "皮卡摄影委托",
+      "start": "2026-11-05",
+      "end": 1795118400,
+      "pets": [],
+      "props": [
+        {
+          "name": "捣蛋鬼合影",
+          "id": "6aeb2e8cdaf8f9c59cbe045e",
+          "img": "https://rocomap.cn/public/announcement-20261104/1a1089c890ae8d6b6a797c45766dacb50a5d294678fffc233e61d1393e5951a1.png"
+        }
+      ]
+    },
+    {
+      "name": "精灵抱抱团集合",
+      "start": "2026-11-13",
+      "end": 1795118400,
+      "pets": [
+        {
+          "name": "觅觅蝠",
+          "id": "6a55c28230392eaef4aab3cc",
+          "img": "https://rocomap.cn/petIcon/6a55c28230392eaef4aab3cc_1784170872943.png"
+        },
+        {
+          "name": "耳翎瑰魅",
+          "id": "67eba1d1037a4b0aff7f6b64",
+          "img": "https://rocomap.cn/petIcon/67eba1d1037a4b0aff7f6b64_1784170916566.png"
+        },
+        {
+          "name": "芽眼魔",
+          "id": "6a55c6ef30392eaef4aad3c7",
+          "img": "https://rocomap.cn/petIcon/6a55c6ef30392eaef4aad3c7_1784170869112.png"
+        },
+        {
+          "name": "斑枭",
+          "id": "67eadb8cf12561a4f11bbbbf",
+          "img": "https://rocomap.cn/petIcon/67eadb8cf12561a4f11bbbbf_1784171229301.png"
+        }
+      ],
+      "props": [
+        {
+          "name": "能力钥匙",
+          "id": "69d7c1fdac38dce036658c01",
+          "img": "https://wegame.shallow.ink/api/v1/resources/rocom/cloudstatic/100009_1775747568963_0.png?expire_at=1775748171&er_sign=4e4cd1617a805d6af59b142d99a83aa3"
+        },
+        {
+          "name": "圣龙代币",
+          "id": "6aeb2e8cdaf8f9c59cbe0467",
+          "img": "https://rocomap.cn/public/announcement-20261104/a8a95935399639d3132f2ff4e58d4b1af2762a8396a7c36a3cd7595bd2a3bee2.png"
+        }
+      ]
+    },
+    {
+      "name": "高校邀请赛·冠军送礼",
+      "start": "2026-11-12",
+      "end": 1795363140,
+      "pets": [],
+      "props": [
+        {
+          "name": "名片「以校之名」",
+          "id": "",
+          "img": ""
+        },
+        {
+          "name": "冠军同款精灵蛋",
+          "id": "",
+          "img": ""
+        }
+      ]
+    },
+    {
+      "name": "星光对决·艾迪",
+      "start": "2026-11-16",
+      "end": 1795377600,
+      "pets": [],
+      "props": []
+    },
+    {
+      "name": "锤头鹳大量出没",
+      "start": "2026-11-20",
+      "end": 1795377600,
+      "pets": [
+        {
+          "name": "锤头鹳",
+          "id": "66f7c0faa2df66f0080adbcd",
+          "img": "https://rocomap.cn/petIcon/66f7c0faa2df66f0080adbcd_1784171332239.png"
+        }
+      ],
+      "props": [
+        {
+          "name": "圣龙代币",
+          "id": "6aeb2e8cdaf8f9c59cbe0467",
+          "img": "https://rocomap.cn/public/announcement-20261104/a8a95935399639d3132f2ff4e58d4b1af2762a8396a7c36a3cd7595bd2a3bee2.png"
+        },
+        {
+          "name": "锤头鹳炫彩蛋",
+          "id": "",
+          "img": ""
+        }
+      ]
+    },
+    {
+      "name": "冒险集结",
+      "start": "2026-11-05",
+      "end": 1795723200,
+      "pets": [],
+      "props": [
+        {
+          "name": "分光水晶",
+          "id": "69d77a673f01ffadfbd41cc4",
+          "img": "https://wegame.shallow.ink/api/v1/resources/rocom/cloudstatic/100796_1775729238502_0.png"
+        },
+        {
+          "name": "国王球",
+          "id": "67610ed9d8ac54dc9b68608c",
+          "img": "https://wegame.shallow.ink/api/v1/resources/rocom/mmbiz/sz_mmbiz_png/dhh0GGnuf9u5I6YSdnLf1ibyiaPkWxNfsVlic2Qdff3ooKTFWDA3xbBJXABzjeStbKDCTibC2P5kuCFMchdwogb1Iw/640?wx_fmt=png&from=appmsg"
+        },
+        {
+          "name": "高级咕噜球",
+          "id": "676111c7d8ac54dc9b689057",
+          "img": "https://wegame.shallow.ink/api/v1/resources/rocom/mmbiz/sz_mmbiz_png/dhh0GGnuf9sSiaZfkAfYzZDmzERiciap053hhuD2CUyIJ7ia2Fh0NG7oyA8tSmhOQDpgsg3CgWkiapKA8k6fVeke9Ww/640?wx_fmt=pn"
+        },
+        {
+          "name": "友谊币",
+          "id": "6aeb2e8cdaf8f9c59cbe0454",
+          "img": "https://rocomap.cn/public/announcement-20261104/880bfaff971ba883eecf1502ee1ce43936e17a8c7c3eccf8143a1fd8656f7a11.png"
+        },
+        {
+          "name": "拉特炫彩蛋",
+          "id": "",
+          "img": ""
+        },
+        {
+          "name": "同乘精灵蛋",
+          "id": "",
+          "img": ""
+        }
+      ]
+    },
+    {
+      "name": "伊雷龙大量出没",
+      "start": "2026-11-27",
+      "end": 1795982400,
+      "pets": [
+        {
+          "name": "伊雷龙",
+          "id": "66f7c0faa2df66f0080adc6d",
+          "img": "https://rocomap.cn/petIcon/66f7c0faa2df66f0080adc6d_1784171191303.png"
+        },
+        {
+          "name": "伊兰亚龙",
+          "id": "66f7c0faa2df66f0080adc6e",
+          "img": "https://rocomap.cn/petIcon/66f7c0faa2df66f0080adc6e_1784171190185.png"
+        }
+      ],
+      "props": [
+        {
+          "name": "圣龙代币",
+          "id": "6aeb2e8cdaf8f9c59cbe0467",
+          "img": "https://rocomap.cn/public/announcement-20261104/a8a95935399639d3132f2ff4e58d4b1af2762a8396a7c36a3cd7595bd2a3bee2.png"
+        },
+        {
+          "name": "伊雷龙炫彩蛋",
+          "id": "",
+          "img": ""
+        }
+      ]
+    }
+  ]
+}
