@@ -1,0 +1,38 @@
+name: update-activities
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-activities
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch activities
+        run: node fetch-activities.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name "roco-act-bot"
+          git config user.email "actions@github.com"
+          git add activities.json
+          if git diff --cached --quiet; then
+            echo "No change."
+          else
+            git commit -m "chore: refresh activities $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
