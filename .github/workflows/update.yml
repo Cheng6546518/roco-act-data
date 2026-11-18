@@ -1,15 +1,16 @@
-name: update-activities
+name: update-data
 
 on:
   schedule:
     - cron: '*/30 * * * *'
+    - cron: '3 0,8,12,16,20 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: update-activities
+  group: update-data
   cancel-in-progress: false
 
 jobs:
@@ -25,14 +26,17 @@ jobs:
       - name: Fetch activities
         run: node fetch-activities.mjs
 
+      - name: Fetch merchant
+        run: node fetch-merchant.mjs
+
       - name: Commit if changed
         run: |
           git config user.name "roco-act-bot"
           git config user.email "actions@github.com"
-          git add activities.json
+          git add activities.json merchant.json
           if git diff --cached --quiet; then
             echo "No change."
           else
-            git commit -m "chore: refresh activities $(date -u +%Y-%m-%dT%H:%MZ)"
+            git commit -m "chore: refresh data $(date -u +%Y-%m-%dT%H:%MZ)"
             git push
           fi
