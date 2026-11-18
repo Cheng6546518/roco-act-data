@@ -1,17 +1,29 @@
 {
  "ok": true,
- "fetchedAt": "2026-11-18T09:27:45.623Z",
+ "fetchedAt": "2026-11-18T17:10:43.739Z",
  "source": "onebiji",
- "round": 3,
+ "round": 4,
  "roundLabel": "08:00-12:00",
- "expire": 1795003200000,
+ "expire": 1795046400000,
  "items": [
   {
-   "name": "炫彩蛋",
-   "price": "160w",
-   "limit": "1",
-   "icon": "https://img.71acg.net/whd~hykb/comm/hd_admin_upload_2982_d3f07a7c316e2b71dc3e5fc1871bd6da.png"
+   "name": "紫莲刚玉",
+   "price": "1000",
+   "limit": "100",
+   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/9/9c/s7ej54xr4magmv0h0zag15jah6avwlc.png/100px-100682.png"
+  },
+  {
+   "name": "神奇的蛋",
+   "price": "36000",
+   "limit": "5",
+   "icon": "https://img.71acg.net/whd~hykb/comm/hd_admin_upload_2982_5390e1a946446e64d929ad89a3ad3eed.png"
+  },
+  {
+   "name": "冰系粉尘",
+   "price": "500",
+   "limit": "100",
+   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/a/a9/no0rhm0wky3e406wni3ef13z6zvfxw1.png/100px-100130.png"
   }
  ],
- "open": true
+ "open": false
 }
