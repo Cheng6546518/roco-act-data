@@ -39,4 +39,6 @@ jobs:
           else
             git commit -m "chore: refresh data $(date -u +%Y-%m-%dT%H:%MZ)"
             git push
+            curl -s "https://purge.jsdelivr.net/gh/Cheng6546518/roco-act-data@main/activities.json" || true
+            curl -s "https://purge.jsdelivr.net/gh/Cheng6546518/roco-act-data@main/merchant.json" || true
           fi
