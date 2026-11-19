@@ -1,29 +1,17 @@
 {
  "ok": true,
- "fetchedAt": "2026-11-18T18:17:32.839Z",
+ "fetchedAt": "2026-11-19T00:35:50.378Z",
  "source": "onebiji",
- "round": 4,
+ "round": 1,
  "roundLabel": "08:00-12:00",
- "expire": 1795046400000,
+ "expire": 1795060800000,
  "items": [
   {
-   "name": "紫莲刚玉",
-   "price": "1000",
-   "limit": "100",
-   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/9/9c/s7ej54xr4magmv0h0zag15jah6avwlc.png/100px-100682.png"
-  },
-  {
-   "name": "神奇的蛋",
-   "price": "36000",
-   "limit": "5",
-   "icon": "https://img.71acg.net/whd~hykb/comm/hd_admin_upload_2982_5390e1a946446e64d929ad89a3ad3eed.png"
-  },
-  {
-   "name": "冰系粉尘",
-   "price": "500",
-   "limit": "100",
-   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/a/a9/no0rhm0wky3e406wni3ef13z6zvfxw1.png/100px-100130.png"
+   "name": "祝福项坠",
+   "price": "80w",
+   "limit": "1",
+   "icon": "https://img.71acg.net/whd~hykb/comm/hd_admin_upload_2982_56aa7234a2be18aae2069541da77b555.png"
   }
  ],
- "open": false
+ "open": true
 }
