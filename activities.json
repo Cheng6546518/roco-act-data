@@ -1,98 +1,7 @@
 {
   "ok": true,
-  "ts": 1795109340103,
+  "ts": 1795131705184,
   "activities": [
-    {
-      "name": "命定花种",
-      "start": "2026-11-05",
-      "end": 1795118400,
-      "pets": [
-        {
-          "name": "叮叮恶魔",
-          "id": "66f7c0faa2df66f0080adbcc",
-          "img": "https://rocomap.cn/petIcon/66f7c0faa2df66f0080adbcc_1784171472298.png"
-        },
-        {
-          "name": "卡拉波斯",
-          "id": "66f7c0faa2df66f0080adc81",
-          "img": "https://rocomap.cn/petIcon/66f7c0faa2df66f0080adc81_1784170928991.png"
-        },
-        {
-          "name": "黑猫巫师",
-          "id": "6751c9ec5f6d950aa5263725",
-          "img": "https://rocomap.cn/petIcon/6751c9ec5f6d950aa5263725_1784171297410.png"
-        }
-      ],
-      "props": [
-        {
-          "name": "分光水晶",
-          "id": "69d77a673f01ffadfbd41cc4",
-          "img": "https://wegame.shallow.ink/api/v1/resources/rocom/cloudstatic/100796_1775729238502_0.png"
-        },
-        {
-          "name": "灵魂环印",
-          "id": "69d7caf83f01ffadfbd971be",
-          "img": "https://wegame.shallow.ink/api/v1/resources/rocom/cloudstatic/100909_1775749878040_0.png"
-        },
-        {
-          "name": "命定勇者",
-          "id": "69e96e9f59b0dcabb6f254b2",
-          "img": "https://wegame.shallow.ink/api/v1/resources/rocom/cloudstatic/img_MedalIcon_Brave_1776905868882_0.png"
-        }
-      ]
-    },
-    {
-      "name": "皮卡摄影委托",
-      "start": "2026-11-05",
-      "end": 1795118400,
-      "pets": [],
-      "props": [
-        {
-          "name": "捣蛋鬼合影",
-          "id": "6aeb2e8cdaf8f9c59cbe045e",
-          "img": "https://rocomap.cn/public/announcement-20261104/1a1089c890ae8d6b6a797c45766dacb50a5d294678fffc233e61d1393e5951a1.png"
-        }
-      ]
-    },
-    {
-      "name": "精灵抱抱团集合",
-      "start": "2026-11-13",
-      "end": 1795118400,
-      "pets": [
-        {
-          "name": "觅觅蝠",
-          "id": "6a55c28230392eaef4aab3cc",
-          "img": "https://rocomap.cn/petIcon/6a55c28230392eaef4aab3cc_1784170872943.png"
-        },
-        {
-          "name": "耳翎瑰魅",
-          "id": "67eba1d1037a4b0aff7f6b64",
-          "img": "https://rocomap.cn/petIcon/67eba1d1037a4b0aff7f6b64_1784170916566.png"
-        },
-        {
-          "name": "芽眼魔",
-          "id": "6a55c6ef30392eaef4aad3c7",
-          "img": "https://rocomap.cn/petIcon/6a55c6ef30392eaef4aad3c7_1784170869112.png"
-        },
-        {
-          "name": "斑枭",
-          "id": "67eadb8cf12561a4f11bbbbf",
-          "img": "https://rocomap.cn/petIcon/67eadb8cf12561a4f11bbbbf_1784171229301.png"
-        }
-      ],
-      "props": [
-        {
-          "name": "能力钥匙",
-          "id": "69d7c1fdac38dce036658c01",
-          "img": "https://wegame.shallow.ink/api/v1/resources/rocom/cloudstatic/100009_1775747568963_0.png?expire_at=1775748171&er_sign=4e4cd1617a805d6af59b142d99a83aa3"
-        },
-        {
-          "name": "圣龙代币",
-          "id": "6aeb2e8cdaf8f9c59cbe0467",
-          "img": "https://rocomap.cn/public/announcement-20261104/a8a95935399639d3132f2ff4e58d4b1af2762a8396a7c36a3cd7595bd2a3bee2.png"
-        }
-      ]
-    },
     {
       "name": "高校邀请赛·冠军送礼",
       "start": "2026-11-12",
@@ -213,6 +122,106 @@
           "name": "伊雷龙炫彩蛋",
           "id": "",
           "img": ""
+        }
+      ]
+    },
+    {
+      "name": "领地试炼·琉璃君主",
+      "start": "2026-11-13",
+      "end": 1796328000,
+      "pets": [],
+      "props": [
+        {
+          "name": "分光水晶",
+          "id": "69d77a673f01ffadfbd41cc4",
+          "img": "https://wegame.shallow.ink/api/v1/resources/rocom/cloudstatic/100796_1775729238502_0.png?expire_at=1775729841&er_sign=ba10ea1c05976f7a41949a045244b2fe"
+        },
+        {
+          "name": "许愿星",
+          "id": "69d77ec9fe25f8c205f26b78",
+          "img": "https://wegame.shallow.ink/api/v1/resources/rocom/cloudstatic/100870_1775730808596_0.png?expire_at=1775731412&er_sign=bcc1437a58a315edcbc30dc83751a6e1"
+        },
+        {
+          "name": "认可之证",
+          "id": "6a3defc67133406e4c0d6a42",
+          "img": "https://wegame.shallow.ink/api/v1/resources/rocom/cloudstatic/101001_1782443970148_0.png?expire_at=1782444572&er_sign=6129a7b3584e4bf03b485da854468673"
+        },
+        {
+          "name": "灵魂环印",
+          "id": "69d7caf83f01ffadfbd971be",
+          "img": "https://wegame.shallow.ink/api/v1/resources/rocom/cloudstatic/100909_1775749878040_0.png?expire_at=1775750480&er_sign=317c7a598fae3c9c9c83709320893de3"
+        },
+        {
+          "name": "契约本源",
+          "id": "69d7c3476d90f331b5cdcd93",
+          "img": "https://wegame.shallow.ink/api/v1/resources/rocom/cloudstatic/100910_1775747907981_0.png?expire_at=1775748510&er_sign=45a8a6debc2b6da2956ef6085329fc3d"
+        },
+        {
+          "name": "琉璃君主的信物",
+          "id": "6af48d91cfbac0cba880de03",
+          "img": "https://rocomap.cn/public/prop-icons/3f4696d9528e333c9f5f3c2fc7ca35534c6396a6d4a2dcfbffc730e9c15737c4.webp"
+        }
+      ]
+    },
+    {
+      "name": "命定花种",
+      "start": "2026-11-20",
+      "end": 1796328000,
+      "pets": [
+        {
+          "name": "沙咔蟹",
+          "id": "s5pet8f80b5912e1adb05a4c",
+          "img": "https://rocomap.cn/petIcon/assets/2e3aa1f630b268a18b84d26bcd367ef6dabbbe1a54b3876f2e03355c86319ca7.png"
+        },
+        {
+          "name": "刨雪鹅",
+          "id": "s5pet48c805aaeab75183311",
+          "img": "https://rocomap.cn/petIcon/assets/c9c707b76597b6e041942107a0b82ca044690343d8aefc091a4122c40660b4c2.png"
+        },
+        {
+          "name": "圆环鲸羽",
+          "id": "s5peta737459c8d93a6ac1e8",
+          "img": "https://rocomap.cn/petIcon/assets/7c067e1989fdea88b3e1136d100e8dd73958cbeb674619b018544ad65139e30f.png"
+        },
+        {
+          "name": "卷胡巨獭",
+          "id": "66f7c0faa2df66f0080adc8c",
+          "img": "https://rocomap.cn/petIcon/66f7c0faa2df66f0080adc8c_1784171462822.png"
+        }
+      ],
+      "props": [
+        {
+          "name": "分光水晶",
+          "id": "69d77a673f01ffadfbd41cc4",
+          "img": "https://wegame.shallow.ink/api/v1/resources/rocom/cloudstatic/100796_1775729238502_0.png?expire_at=1775729841&er_sign=ba10ea1c05976f7a41949a045244b2fe"
+        },
+        {
+          "name": "灵魂环印",
+          "id": "69d7caf83f01ffadfbd971be",
+          "img": "https://wegame.shallow.ink/api/v1/resources/rocom/cloudstatic/100909_1775749878040_0.png?expire_at=1775750480&er_sign=317c7a598fae3c9c9c83709320893de3"
+        },
+        {
+          "name": "魔法粉尘",
+          "id": "69d77d4480cfed429539b5f5",
+          "img": "https://wegame.shallow.ink/api/v1/resources/rocom/cloudstatic/100201_1775729957432_0.png?expire_at=1775730560&er_sign=a86b3923abf3cf413d313db109fa5b94"
+        },
+        {
+          "name": "命定勇者",
+          "id": "69e96e9f59b0dcabb6f254b2",
+          "img": "https://wegame.shallow.ink/api/v1/resources/rocom/cloudstatic/img_MedalIcon_Brave_1776905868882_0.png?expire_at=1776906472&er_sign=d6f7f0ada77a57800c4e78ccb99e1c61"
+        }
+      ]
+    },
+    {
+      "name": "皮卡摄影委托",
+      "start": "2026-11-20",
+      "end": 1796328000,
+      "pets": [],
+      "props": [
+        {
+          "name": "汐光假日合影",
+          "id": "6afda0af69185fa9600f3dd4",
+          "img": "https://rocomap.cn/public/announcement-furniture/fafc8e771fbaeafbbbf1b927258c6dc7005de1a249864d61f45278fcfaa2bf02.webp"
         }
       ]
     }
