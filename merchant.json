@@ -1,10 +1,10 @@
 {
  "ok": true,
- "fetchedAt": "2026-11-20T04:46:59.101Z",
+ "fetchedAt": "2026-11-20T13:42:39.618Z",
  "source": "onebiji",
- "round": 2,
+ "round": 4,
  "roundLabel": "08:00-12:00",
- "expire": 1795161600000,
+ "expire": 1795190400000,
  "items": [
   {
    "name": "紫莲刚玉",
@@ -19,16 +19,16 @@
    "icon": "https://patchwiki.biligame.com/images/rocom/thumb/4/4b/60uvwzet0brdqlhtoa89domccpbo4hr.png/100px-Img_wangdiuqiu.png"
   },
   {
-   "name": "毒系血脉秘药",
+   "name": "奇异血脉秘药",
    "price": "16w",
    "limit": "3",
-   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/0/0a/4vxiijlbmrgcpj1r2d5lnzfmdhnurs3.png/100px-Xuemai_du.png"
+   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/a/ab/eg7zj03u487p1l3f91z499w1nxdzac1.png/100px-Xuemai_qiyixuemai.png"
   },
   {
-   "name": "神奇的蛋",
-   "price": "36000",
-   "limit": "5",
-   "icon": "https://img.71acg.net/whd~hykb/comm/hd_admin_upload_2982_5390e1a946446e64d929ad89a3ad3eed.png"
+   "name": "魔力果",
+   "price": "6000",
+   "limit": "20",
+   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/c/c6/5qe6rcdtfxe1gsrvgj3lrn033athx9p.png/100px-100668.png"
   }
  ],
  "open": true
