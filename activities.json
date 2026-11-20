@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ts": 1795131705184,
+  "ts": 1795139091783,
   "activities": [
     {
       "name": "高校邀请赛·冠军送礼",
@@ -25,7 +25,18 @@
       "start": "2026-11-16",
       "end": 1795377600,
       "pets": [],
-      "props": []
+      "props": [
+        {
+          "name": "圣龙代币",
+          "id": "6aeb2e8cdaf8f9c59cbe0467",
+          "img": "https://rocomap.cn/public/announcement-20261104/a8a95935399639d3132f2ff4e58d4b1af2762a8396a7c36a3cd7595bd2a3bee2.png"
+        },
+        {
+          "name": "灵魂环印",
+          "id": "69d7caf83f01ffadfbd971be",
+          "img": "https://wegame.shallow.ink/api/v1/resources/rocom/cloudstatic/100909_1775749878040_0.png?expire_at=1775750480&er_sign=317c7a598fae3c9c9c83709320893de3"
+        }
+      ]
     },
     {
       "name": "锤头鹳大量出没",
@@ -94,7 +105,18 @@
       "start": "2026-11-23",
       "end": 1795982400,
       "pets": [],
-      "props": []
+      "props": [
+        {
+          "name": "圣龙代币",
+          "id": "6aeb2e8cdaf8f9c59cbe0467",
+          "img": "https://rocomap.cn/public/announcement-20261104/a8a95935399639d3132f2ff4e58d4b1af2762a8396a7c36a3cd7595bd2a3bee2.png"
+        },
+        {
+          "name": "灵魂环印",
+          "id": "69d7caf83f01ffadfbd971be",
+          "img": "https://wegame.shallow.ink/api/v1/resources/rocom/cloudstatic/100909_1775749878040_0.png?expire_at=1775750480&er_sign=317c7a598fae3c9c9c83709320893de3"
+        }
+      ]
     },
     {
       "name": "伊雷龙大量出没",
