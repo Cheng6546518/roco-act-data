@@ -1,10 +1,10 @@
 {
  "ok": true,
- "fetchedAt": "2026-11-20T13:42:39.618Z",
+ "fetchedAt": "2026-11-20T16:54:52.149Z",
  "source": "onebiji",
  "round": 4,
  "roundLabel": "08:00-12:00",
- "expire": 1795190400000,
+ "expire": 1795219200000,
  "items": [
   {
    "name": "紫莲刚玉",
@@ -31,5 +31,5 @@
    "icon": "https://patchwiki.biligame.com/images/rocom/thumb/c/c6/5qe6rcdtfxe1gsrvgj3lrn033athx9p.png/100px-100668.png"
   }
  ],
- "open": true
+ "open": false
 }
