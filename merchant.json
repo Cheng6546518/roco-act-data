@@ -1,35 +1,23 @@
 {
  "ok": true,
- "fetchedAt": "2026-11-20T21:36:52.453Z",
+ "fetchedAt": "2026-11-21T01:23:17.113Z",
  "source": "onebiji",
- "round": 4,
+ "round": 1,
  "roundLabel": "08:00-12:00",
- "expire": 1795219200000,
+ "expire": 1795233600000,
  "items": [
   {
-   "name": "紫莲刚玉",
-   "price": "1000",
-   "limit": "100",
-   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/9/9c/s7ej54xr4magmv0h0zag15jah6avwlc.png/100px-100682.png"
+   "name": "国王球",
+   "price": "16w",
+   "limit": "3",
+   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/2/2e/jygbfxpdbup5weqy4zaqnyaw2fcfyrq.png/100px-100255.png"
   },
   {
    "name": "网兜球",
    "price": "3000",
-   "limit": "200",
+   "limit": "100",
    "icon": "https://patchwiki.biligame.com/images/rocom/thumb/4/4b/60uvwzet0brdqlhtoa89domccpbo4hr.png/100px-Img_wangdiuqiu.png"
-  },
-  {
-   "name": "奇异血脉秘药",
-   "price": "16w",
-   "limit": "3",
-   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/a/ab/eg7zj03u487p1l3f91z499w1nxdzac1.png/100px-Xuemai_qiyixuemai.png"
-  },
-  {
-   "name": "魔力果",
-   "price": "6000",
-   "limit": "20",
-   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/c/c6/5qe6rcdtfxe1gsrvgj3lrn033athx9p.png/100px-100668.png"
   }
  ],
- "open": false
+ "open": true
 }
