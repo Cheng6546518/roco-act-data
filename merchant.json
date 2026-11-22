@@ -1,10 +1,10 @@
 {
  "ok": true,
- "fetchedAt": "2026-11-22T02:44:12.847Z",
+ "fetchedAt": "2026-11-22T10:29:09.981Z",
  "source": "onebiji",
- "round": 1,
+ "round": 3,
  "roundLabel": "08:00-12:00",
- "expire": 1795320000000,
+ "expire": 1795348800000,
  "items": [
   {
    "name": "网兜球",
@@ -13,10 +13,22 @@
    "icon": "https://patchwiki.biligame.com/images/rocom/thumb/4/4b/60uvwzet0brdqlhtoa89domccpbo4hr.png/100px-Img_wangdiuqiu.png"
   },
   {
-   "name": "首领血脉秘药",
-   "price": "32w",
-   "limit": "1",
-   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/2/26/fbfwlhncfo0pstpv3ibxn1mj3ayg6di.png/100px-Xuemai_shoulingxuemai.png"
+   "name": "紫莲刚玉",
+   "price": "1000",
+   "limit": "100",
+   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/9/9c/s7ej54xr4magmv0h0zag15jah6avwlc.png/100px-100682.png"
+  },
+  {
+   "name": "龙系血脉秘药",
+   "price": "16w",
+   "limit": "3",
+   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/c/c5/88wm27imouqbkxv6d9tlof24xs20nrv.png/100px-Xuemai_long.png"
+  },
+  {
+   "name": "神奇的蛋",
+   "price": "36000",
+   "limit": "5",
+   "icon": "https://img.71acg.net/whd~hykb/comm/hd_admin_upload_2982_5390e1a946446e64d929ad89a3ad3eed.png"
   }
  ],
  "open": true
