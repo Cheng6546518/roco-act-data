@@ -1,10 +1,10 @@
 {
  "ok": true,
- "fetchedAt": "2026-11-22T10:29:09.981Z",
+ "fetchedAt": "2026-11-22T16:11:37.557Z",
  "source": "onebiji",
- "round": 3,
+ "round": 4,
  "roundLabel": "08:00-12:00",
- "expire": 1795348800000,
+ "expire": 1795392000000,
  "items": [
   {
    "name": "网兜球",
@@ -13,23 +13,23 @@
    "icon": "https://patchwiki.biligame.com/images/rocom/thumb/4/4b/60uvwzet0brdqlhtoa89domccpbo4hr.png/100px-Img_wangdiuqiu.png"
   },
   {
+   "name": "国王球",
+   "price": "16w",
+   "limit": "3",
+   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/2/2e/jygbfxpdbup5weqy4zaqnyaw2fcfyrq.png/100px-100255.png"
+  },
+  {
    "name": "紫莲刚玉",
    "price": "1000",
    "limit": "100",
    "icon": "https://patchwiki.biligame.com/images/rocom/thumb/9/9c/s7ej54xr4magmv0h0zag15jah6avwlc.png/100px-100682.png"
   },
   {
-   "name": "龙系血脉秘药",
-   "price": "16w",
-   "limit": "3",
-   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/c/c5/88wm27imouqbkxv6d9tlof24xs20nrv.png/100px-Xuemai_long.png"
-  },
-  {
-   "name": "神奇的蛋",
-   "price": "36000",
-   "limit": "5",
-   "icon": "https://img.71acg.net/whd~hykb/comm/hd_admin_upload_2982_5390e1a946446e64d929ad89a3ad3eed.png"
+   "name": "电系粉尘",
+   "price": "500",
+   "limit": "100",
+   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/2/2f/2sux0g15uo8at77bwpoxrg32rv3l4dz.png/100px-100132.png"
   }
  ],
- "open": true
+ "open": false
 }
