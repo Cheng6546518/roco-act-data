@@ -1,49 +1,7 @@
 {
   "ok": true,
-  "ts": 1795370313745,
+  "ts": 1795389337231,
   "activities": [
-    {
-      "name": "星光对决·艾迪",
-      "start": "2026-11-16",
-      "end": 1795377600,
-      "pets": [],
-      "props": [
-        {
-          "name": "圣龙代币",
-          "id": "6aeb2e8cdaf8f9c59cbe0467",
-          "img": "https://rocomap.cn/public/announcement-20261104/a8a95935399639d3132f2ff4e58d4b1af2762a8396a7c36a3cd7595bd2a3bee2.png"
-        },
-        {
-          "name": "灵魂环印",
-          "id": "69d7caf83f01ffadfbd971be",
-          "img": "https://wegame.shallow.ink/api/v1/resources/rocom/cloudstatic/100909_1775749878040_0.png?expire_at=1775750480&er_sign=317c7a598fae3c9c9c83709320893de3"
-        }
-      ]
-    },
-    {
-      "name": "锤头鹳大量出没",
-      "start": "2026-11-20",
-      "end": 1795377600,
-      "pets": [
-        {
-          "name": "锤头鹳",
-          "id": "66f7c0faa2df66f0080adbcd",
-          "img": "https://rocomap.cn/petIcon/66f7c0faa2df66f0080adbcd_1784171332239.png"
-        }
-      ],
-      "props": [
-        {
-          "name": "圣龙代币",
-          "id": "6aeb2e8cdaf8f9c59cbe0467",
-          "img": "https://rocomap.cn/public/announcement-20261104/a8a95935399639d3132f2ff4e58d4b1af2762a8396a7c36a3cd7595bd2a3bee2.png"
-        },
-        {
-          "name": "锤头鹳炫彩蛋",
-          "id": "",
-          "img": ""
-        }
-      ]
-    },
     {
       "name": "冒险集结",
       "start": "2026-11-05",
@@ -226,6 +184,35 @@
           "name": "汐光假日合影",
           "id": "6afda0af69185fa9600f3dd4",
           "img": "https://rocomap.cn/public/announcement-furniture/fafc8e771fbaeafbbbf1b927258c6dc7005de1a249864d61f45278fcfaa2bf02.webp"
+        }
+      ]
+    },
+    {
+      "name": "花怨鳗大量出没",
+      "start": "2026-12-04",
+      "end": 1796587200,
+      "pets": [
+        {
+          "name": "花怨鳗",
+          "id": "67eb927f38a6188e100701f5",
+          "img": "https://rocomap.cn/petIcon/67eb927f38a6188e100701f5_1784171193125.png"
+        },
+        {
+          "name": "鳗尾兽",
+          "id": "67eb92c965abb5a8089e54ee",
+          "img": "https://rocomap.cn/petIcon/67eb92c965abb5a8089e54ee_1784171192211.png"
+        }
+      ],
+      "props": [
+        {
+          "name": "圣龙代币",
+          "id": "6aeb2e8cdaf8f9c59cbe0467",
+          "img": "https://rocomap.cn/public/announcement-20261104/a8a95935399639d3132f2ff4e58d4b1af2762a8396a7c36a3cd7595bd2a3bee2.png"
+        },
+        {
+          "name": "花怨鳗炫彩蛋",
+          "id": "",
+          "img": ""
         }
       ]
     }
