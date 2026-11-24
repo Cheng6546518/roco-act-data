@@ -1,28 +1,28 @@
 {
  "ok": true,
- "fetchedAt": "2026-11-24T01:21:47.013Z",
+ "fetchedAt": "2026-11-24T09:41:57.334Z",
  "source": "onebiji",
- "round": 1,
+ "round": 3,
  "roundLabel": "08:00-12:00",
- "expire": 1795492800000,
+ "expire": 1795521600000,
  "items": [
   {
-   "name": "黄石榴石",
-   "price": "1000",
-   "limit": "100",
-   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/f/f3/c5x5f0lgk33ly801m8w1n9aod8ny4sh.png/100px-100683.png"
+   "name": "光系血脉秘药",
+   "price": "16w",
+   "limit": "3",
+   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/3/34/cz38ekzotsvoydbhmpo5wfxrqj2b3ny.png/100px-Xuemai_guang.png"
   },
   {
-   "name": "蓝晶碧玺",
-   "price": "1000",
+   "name": "草系粉尘",
+   "price": "500",
    "limit": "100",
-   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/c/c5/k8wzdzechd88qs9bxuvcnyg0pv4tzl4.png/100px-100681.png"
+   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/3/32/2k88qbruf464xxyf02grnmkvun59h0c.png/100px-100121.png"
   },
   {
-   "name": "魔力果",
-   "price": "6000",
-   "limit": "20",
-   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/c/c6/5qe6rcdtfxe1gsrvgj3lrn033athx9p.png/100px-100668.png"
+   "name": "火系粉尘",
+   "price": "500",
+   "limit": "100",
+   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/a/a6/a5v60zfm9ivyri166tias4efjnp5vyt.png/100px-100122.png"
   }
  ],
  "open": true
