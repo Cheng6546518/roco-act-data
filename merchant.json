@@ -1,10 +1,10 @@
 {
  "ok": true,
- "fetchedAt": "2026-11-25T14:43:08.331Z",
+ "fetchedAt": "2026-11-25T21:35:22.304Z",
  "source": "onebiji",
  "round": 4,
  "roundLabel": "08:00-12:00",
- "expire": 1795622400000,
+ "expire": 1795651200000,
  "items": [
   {
    "name": "黄石榴石",
@@ -25,5 +25,5 @@
    "icon": "https://patchwiki.biligame.com/images/rocom/thumb/e/ec/mbugzr13ol6m9ay5focjw9kctt14g5h.png/100px-100125.png"
   }
  ],
- "open": true
+ "open": false
 }
