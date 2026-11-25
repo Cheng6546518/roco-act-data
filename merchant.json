@@ -1,28 +1,16 @@
 {
  "ok": true,
- "fetchedAt": "2026-11-25T04:23:23.942Z",
+ "fetchedAt": "2026-11-25T08:15:12.532Z",
  "source": "onebiji",
- "round": 2,
+ "round": 3,
  "roundLabel": "08:00-12:00",
- "expire": 1795593600000,
+ "expire": 1795608000000,
  "items": [
   {
-   "name": "魔力果",
-   "price": "6000",
-   "limit": "20",
-   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/c/c6/5qe6rcdtfxe1gsrvgj3lrn033athx9p.png/100px-100668.png"
-  },
-  {
-   "name": "神奇的蛋",
-   "price": "36000",
-   "limit": "5",
-   "icon": "https://img.71acg.net/whd~hykb/comm/hd_admin_upload_2982_5390e1a946446e64d929ad89a3ad3eed.png"
-  },
-  {
-   "name": "龙系粉尘",
-   "price": "500",
+   "name": "黄石榴石",
+   "price": "1000",
    "limit": "100",
-   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/a/ac/jhbsu0fzhq55ivqu89qz81366owvkki.png/100px-100131.png"
+   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/f/f3/c5x5f0lgk33ly801m8w1n9aod8ny4sh.png/100px-100683.png"
   }
  ],
  "open": true
