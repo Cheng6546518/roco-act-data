@@ -1,16 +1,28 @@
 {
  "ok": true,
- "fetchedAt": "2026-11-25T08:15:12.532Z",
+ "fetchedAt": "2026-11-25T14:43:08.331Z",
  "source": "onebiji",
- "round": 3,
+ "round": 4,
  "roundLabel": "08:00-12:00",
- "expire": 1795608000000,
+ "expire": 1795622400000,
  "items": [
   {
    "name": "黄石榴石",
    "price": "1000",
    "limit": "100",
    "icon": "https://patchwiki.biligame.com/images/rocom/thumb/f/f3/c5x5f0lgk33ly801m8w1n9aod8ny4sh.png/100px-100683.png"
+  },
+  {
+   "name": "魔力果",
+   "price": "6000",
+   "limit": "20",
+   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/c/c6/5qe6rcdtfxe1gsrvgj3lrn033athx9p.png/100px-100668.png"
+  },
+  {
+   "name": "恶系粉尘",
+   "price": "500",
+   "limit": "100",
+   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/e/ec/mbugzr13ol6m9ay5focjw9kctt14g5h.png/100px-100125.png"
   }
  ],
  "open": true

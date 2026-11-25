@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "ts": 1795594512417,
+  "ts": 1795617788214,
   "activities": [
     {
       "name": "冒险集结",
@@ -184,6 +184,47 @@
           "name": "汐光假日合影",
           "id": "6afda0af69185fa9600f3dd4",
           "img": "https://rocomap.cn/public/announcement-furniture/fafc8e771fbaeafbbbf1b927258c6dc7005de1a249864d61f45278fcfaa2bf02.webp"
+        }
+      ]
+    },
+    {
+      "name": "大世界观察笔记",
+      "start": "2026-11-27",
+      "end": 1796328000,
+      "pets": [],
+      "props": [
+        {
+          "name": "能力钥匙",
+          "id": "69d7c1fdac38dce036658c01",
+          "img": "https://wegame.shallow.ink/api/v1/resources/rocom/cloudstatic/100009_1775747568963_0.png?expire_at=1775748171&er_sign=4e4cd1617a805d6af59b142d99a83aa3"
+        },
+        {
+          "name": "贤者碎晶",
+          "id": "69d77dbb87d884262d947172",
+          "img": "https://wegame.shallow.ink/api/v1/resources/rocom/cloudstatic/100722_1775730089503_0.png?expire_at=1775730692&er_sign=11fa20a4dd9dc2e24986a0f947286f29"
+        },
+        {
+          "name": "圣龙代币",
+          "id": "6aeb2e8cdaf8f9c59cbe0467",
+          "img": "https://rocomap.cn/public/announcement-20261104/a8a95935399639d3132f2ff4e58d4b1af2762a8396a7c36a3cd7595bd2a3bee2.png"
+        }
+      ]
+    },
+    {
+      "name": "星光对决·路易斯",
+      "start": "2026-11-30",
+      "end": 1796587200,
+      "pets": [],
+      "props": [
+        {
+          "name": "灵魂环印",
+          "id": "69d7caf83f01ffadfbd971be",
+          "img": "https://wegame.shallow.ink/api/v1/resources/rocom/cloudstatic/100909_1775749878040_0.png?expire_at=1775750480&er_sign=317c7a598fae3c9c9c83709320893de3"
+        },
+        {
+          "name": "圣龙代币",
+          "id": "6aeb2e8cdaf8f9c59cbe0467",
+          "img": "https://rocomap.cn/public/announcement-20261104/a8a95935399639d3132f2ff4e58d4b1af2762a8396a7c36a3cd7595bd2a3bee2.png"
         }
       ]
     },
