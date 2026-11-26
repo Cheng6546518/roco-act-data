@@ -1,10 +1,10 @@
 {
  "ok": true,
- "fetchedAt": "2026-11-26T15:30:47.113Z",
+ "fetchedAt": "2026-11-26T18:22:59.216Z",
  "source": "onebiji",
  "round": 4,
  "roundLabel": "08:00-12:00",
- "expire": 1795708800000,
+ "expire": 1795737600000,
  "items": [
   {
    "name": "棱镜球",
@@ -25,5 +25,5 @@
    "icon": "https://patchwiki.biligame.com/images/rocom/thumb/a/a9/no0rhm0wky3e406wni3ef13z6zvfxw1.png/100px-100130.png"
   }
  ],
- "open": true
+ "open": false
 }
