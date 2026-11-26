@@ -1,10 +1,10 @@
 {
  "ok": true,
- "fetchedAt": "2026-11-26T08:02:17.774Z",
+ "fetchedAt": "2026-11-26T15:30:47.113Z",
  "source": "onebiji",
- "round": 3,
+ "round": 4,
  "roundLabel": "08:00-12:00",
- "expire": 1795694400000,
+ "expire": 1795708800000,
  "items": [
   {
    "name": "棱镜球",
@@ -13,10 +13,16 @@
    "icon": "https://patchwiki.biligame.com/images/rocom/thumb/9/9b/kkwd244su5nzzg5pj99volbt84ohied.png/100px-100795.png"
   },
   {
-   "name": "首领血脉秘药",
-   "price": "32w",
-   "limit": "1",
-   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/2/26/fbfwlhncfo0pstpv3ibxn1mj3ayg6di.png/100px-Xuemai_shoulingxuemai.png"
+   "name": "魔力果",
+   "price": "6000",
+   "limit": "20",
+   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/c/c6/5qe6rcdtfxe1gsrvgj3lrn033athx9p.png/100px-100668.png"
+  },
+  {
+   "name": "冰系粉尘",
+   "price": "500",
+   "limit": "100",
+   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/a/a9/no0rhm0wky3e406wni3ef13z6zvfxw1.png/100px-100130.png"
   }
  ],
  "open": true
