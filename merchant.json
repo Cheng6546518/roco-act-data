@@ -1,29 +1,35 @@
 {
  "ok": true,
- "fetchedAt": "2026-11-25T23:24:30.185Z",
+ "fetchedAt": "2026-11-26T05:14:42.707Z",
  "source": "onebiji",
- "round": 4,
+ "round": 2,
  "roundLabel": "08:00-12:00",
- "expire": 1795651200000,
+ "expire": 1795680000000,
  "items": [
   {
-   "name": "黄石榴石",
+   "name": "国王球",
+   "price": "16w",
+   "limit": "3",
+   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/2/2e/jygbfxpdbup5weqy4zaqnyaw2fcfyrq.png/100px-100255.png"
+  },
+  {
+   "name": "紫莲刚玉",
    "price": "1000",
    "limit": "100",
-   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/f/f3/c5x5f0lgk33ly801m8w1n9aod8ny4sh.png/100px-100683.png"
+   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/9/9c/s7ej54xr4magmv0h0zag15jah6avwlc.png/100px-100682.png"
   },
   {
-   "name": "魔力果",
-   "price": "6000",
-   "limit": "20",
-   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/c/c6/5qe6rcdtfxe1gsrvgj3lrn033athx9p.png/100px-100668.png"
+   "name": "棱镜球",
+   "price": "320w",
+   "limit": "1",
+   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/9/9b/kkwd244su5nzzg5pj99volbt84ohied.png/100px-100795.png"
   },
   {
-   "name": "恶系粉尘",
+   "name": "火系粉尘",
    "price": "500",
    "limit": "100",
-   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/e/ec/mbugzr13ol6m9ay5focjw9kctt14g5h.png/100px-100125.png"
+   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/a/a6/a5v60zfm9ivyri166tias4efjnp5vyt.png/100px-100122.png"
   }
  ],
- "open": false
+ "open": true
 }
