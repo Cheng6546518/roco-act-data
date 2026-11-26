@@ -1,23 +1,11 @@
 {
  "ok": true,
- "fetchedAt": "2026-11-26T05:14:42.707Z",
+ "fetchedAt": "2026-11-26T08:02:17.774Z",
  "source": "onebiji",
- "round": 2,
+ "round": 3,
  "roundLabel": "08:00-12:00",
- "expire": 1795680000000,
+ "expire": 1795694400000,
  "items": [
-  {
-   "name": "国王球",
-   "price": "16w",
-   "limit": "3",
-   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/2/2e/jygbfxpdbup5weqy4zaqnyaw2fcfyrq.png/100px-100255.png"
-  },
-  {
-   "name": "紫莲刚玉",
-   "price": "1000",
-   "limit": "100",
-   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/9/9c/s7ej54xr4magmv0h0zag15jah6avwlc.png/100px-100682.png"
-  },
   {
    "name": "棱镜球",
    "price": "320w",
@@ -25,10 +13,10 @@
    "icon": "https://patchwiki.biligame.com/images/rocom/thumb/9/9b/kkwd244su5nzzg5pj99volbt84ohied.png/100px-100795.png"
   },
   {
-   "name": "火系粉尘",
-   "price": "500",
-   "limit": "100",
-   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/a/a6/a5v60zfm9ivyri166tias4efjnp5vyt.png/100px-100122.png"
+   "name": "首领血脉秘药",
+   "price": "32w",
+   "limit": "1",
+   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/2/26/fbfwlhncfo0pstpv3ibxn1mj3ayg6di.png/100px-Xuemai_shoulingxuemai.png"
   }
  ],
  "open": true
