@@ -1,29 +1,23 @@
 {
  "ok": true,
- "fetchedAt": "2026-11-26T18:22:59.216Z",
+ "fetchedAt": "2026-11-27T00:10:28.931Z",
  "source": "onebiji",
- "round": 4,
+ "round": 1,
  "roundLabel": "08:00-12:00",
- "expire": 1795737600000,
+ "expire": 1795752000000,
  "items": [
   {
-   "name": "棱镜球",
-   "price": "320w",
-   "limit": "1",
-   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/9/9b/kkwd244su5nzzg5pj99volbt84ohied.png/100px-100795.png"
+   "name": "好战球",
+   "price": "3000",
+   "limit": "100",
+   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/7/79/kdfs6bmfy54gk7ak70arjxug91zv1z5.png/100px-Img_lumangqiu.png"
   },
   {
-   "name": "魔力果",
-   "price": "6000",
-   "limit": "20",
-   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/c/c6/5qe6rcdtfxe1gsrvgj3lrn033athx9p.png/100px-100668.png"
-  },
-  {
-   "name": "冰系粉尘",
+   "name": "普通粉尘",
    "price": "500",
    "limit": "100",
-   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/a/a9/no0rhm0wky3e406wni3ef13z6zvfxw1.png/100px-100130.png"
+   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/f/f6/ls7hsygs9epizddf1xo4q9b2iu1dduu.png/100px-100127.png"
   }
  ],
- "open": false
+ "open": true
 }
