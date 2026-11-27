@@ -1,10 +1,10 @@
 {
  "ok": true,
- "fetchedAt": "2026-11-27T08:52:14.048Z",
+ "fetchedAt": "2026-11-27T18:05:15.348Z",
  "source": "onebiji",
- "round": 3,
+ "round": 4,
  "roundLabel": "08:00-12:00",
- "expire": 1795780800000,
+ "expire": 1795824000000,
  "items": [
   {
    "name": "好战球",
@@ -13,11 +13,17 @@
    "icon": "https://patchwiki.biligame.com/images/rocom/thumb/7/79/kdfs6bmfy54gk7ak70arjxug91zv1z5.png/100px-Img_lumangqiu.png"
   },
   {
-   "name": "黄石榴石",
+   "name": "黑晶琉璃",
    "price": "1000",
    "limit": "100",
-   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/f/f3/c5x5f0lgk33ly801m8w1n9aod8ny4sh.png/100px-100683.png"
+   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/b/bc/khe20j8lwkt1bg9g4b0gbnsff48g93c.png/100px-100628.png"
+  },
+  {
+   "name": "冰系粉尘",
+   "price": "500",
+   "limit": "100",
+   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/a/a9/no0rhm0wky3e406wni3ef13z6zvfxw1.png/100px-100130.png"
   }
  ],
- "open": true
+ "open": false
 }
