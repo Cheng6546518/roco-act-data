@@ -1,10 +1,10 @@
 {
  "ok": true,
- "fetchedAt": "2026-11-27T02:46:08.009Z",
+ "fetchedAt": "2026-11-27T08:52:14.048Z",
  "source": "onebiji",
- "round": 1,
+ "round": 3,
  "roundLabel": "08:00-12:00",
- "expire": 1795752000000,
+ "expire": 1795780800000,
  "items": [
   {
    "name": "好战球",
@@ -13,10 +13,10 @@
    "icon": "https://patchwiki.biligame.com/images/rocom/thumb/7/79/kdfs6bmfy54gk7ak70arjxug91zv1z5.png/100px-Img_lumangqiu.png"
   },
   {
-   "name": "普通粉尘",
-   "price": "500",
+   "name": "黄石榴石",
+   "price": "1000",
    "limit": "100",
-   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/f/f6/ls7hsygs9epizddf1xo4q9b2iu1dduu.png/100px-100127.png"
+   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/f/f3/c5x5f0lgk33ly801m8w1n9aod8ny4sh.png/100px-100683.png"
   }
  ],
  "open": true
