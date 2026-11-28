@@ -1,17 +1,11 @@
 {
  "ok": true,
- "fetchedAt": "2026-11-27T18:34:04.381Z",
+ "fetchedAt": "2026-11-28T01:44:04.452Z",
  "source": "onebiji",
- "round": 4,
+ "round": 1,
  "roundLabel": "08:00-12:00",
- "expire": 1795824000000,
+ "expire": 1795838400000,
  "items": [
-  {
-   "name": "好战球",
-   "price": "3000",
-   "limit": "100",
-   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/7/79/kdfs6bmfy54gk7ak70arjxug91zv1z5.png/100px-Img_lumangqiu.png"
-  },
   {
    "name": "黑晶琉璃",
    "price": "1000",
@@ -19,11 +13,17 @@
    "icon": "https://patchwiki.biligame.com/images/rocom/thumb/b/bc/khe20j8lwkt1bg9g4b0gbnsff48g93c.png/100px-100628.png"
   },
   {
-   "name": "冰系粉尘",
-   "price": "500",
+   "name": "好战球",
+   "price": "3000",
    "limit": "100",
-   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/a/a9/no0rhm0wky3e406wni3ef13z6zvfxw1.png/100px-100130.png"
+   "icon": "https://patchwiki.biligame.com/images/rocom/thumb/7/79/kdfs6bmfy54gk7ak70arjxug91zv1z5.png/100px-Img_lumangqiu.png"
+  },
+  {
+   "name": "神奇的蛋",
+   "price": "36000",
+   "limit": "5",
+   "icon": "https://img.71acg.net/whd~hykb/comm/hd_admin_upload_2982_5390e1a946446e64d929ad89a3ad3eed.png"
   }
  ],
- "open": false
+ "open": true
 }
